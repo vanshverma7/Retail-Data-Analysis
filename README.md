@@ -4,8 +4,8 @@ This project contains a series of SQL queries designed to analyze sales data fro
 
 **Note:** Ensure that the dataset and table structure align with the queries for accurate results. The dataset can be found in the `data` folder.
 
-### Sample Data Visualization
-![Example Image](Images/sales-data-visualization.png)
+### Relationship Diagram
+![Example Image](Images/SS.png)
 
 ## Features
 
